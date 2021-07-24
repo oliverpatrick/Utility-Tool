@@ -1,0 +1,10 @@
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\bin\Debug\UTool.exe.config
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\bin\Debug\UTool.exe
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\bin\Debug\UTool.pdb
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.UToolForm.resources
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.Form2.resources
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.Properties.Resources.resources
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.csproj.GenerateResource.cache
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.csproj.CoreCompileInputs.cache
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.exe
+C:\Users\Oli\Documents\Code\VisualStudio\UTool\UTool\obj\Debug\UTool.pdb
